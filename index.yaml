@@ -3,6 +3,16 @@ entries:
   textbee:
   - apiVersion: v2
     appVersion: v2.6.2
+    created: "2025-08-22T17:15:15.112524739Z"
+    description: A Helm chart to deploy TextBee.
+    digest: 8eecd0f7b8f29c85f3c36ab8a57328f9eebcb880616d8a678a6e27c3b4afd200
+    name: textbee
+    type: application
+    urls:
+    - https://github.com/eznix86/textbee/releases/download/textbee-0.1.9/textbee-0.1.9.tgz
+    version: 0.1.9
+  - apiVersion: v2
+    appVersion: v2.6.2
     created: "2025-08-22T17:01:49.191846764Z"
     description: A Helm chart to deploy TextBee.
     digest: 164448dba7c835a2f17d1c74cbfedc4b92fc7d7ccb5685ed29648af258fadc0b
@@ -91,4 +101,4 @@ entries:
     urls:
     - https://github.com/eznix86/textbee/releases/download/textbee-0.1.0/textbee-0.1.0.tgz
     version: 0.1.0
-generated: "2025-08-22T17:01:49.191903371Z"
+generated: "2025-08-22T17:15:15.112566207Z"
